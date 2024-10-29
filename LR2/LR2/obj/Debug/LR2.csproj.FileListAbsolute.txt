@@ -1,0 +1,7 @@
+D:\Клименков\LR2\LR2\LR2\obj\Debug\LR2.csproj.AssemblyReference.cache
+D:\Клименков\LR2\LR2\LR2\obj\Debug\LR2.csproj.CoreCompileInputs.cache
+D:\Клименков\LR2\LR2\LR2\bin\Debug\LR2.exe.config
+D:\Клименков\LR2\LR2\LR2\bin\Debug\LR2.exe
+D:\Клименков\LR2\LR2\LR2\bin\Debug\LR2.pdb
+D:\Клименков\LR2\LR2\LR2\obj\Debug\LR2.exe
+D:\Клименков\LR2\LR2\LR2\obj\Debug\LR2.pdb
