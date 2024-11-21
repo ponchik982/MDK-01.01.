@@ -18,16 +18,13 @@ namespace LR2
             report.AddSale(new SalesRealization(2, new Game("Gran Turismo 7", 5000.00, 8, Genre.Sports)));
 
             int reportType;
-            Console.WriteLine("Выберите вид отчёта (0 - Полный, 1 - За день, 2 - По жанрам): ");
+            Console.WriteLine("Выберите вид отчёта (0 - Полный, 2 - По жанрам): ");
             reportType = Convert.ToInt32(Console.ReadLine());
             if (reportType == 0)
             {
                 report.PrintReportAll();
             }
-            else if (reportType == 1)
-            {
-                report.PrintReportPerDay();
-            }
+
             else if (reportType == 2)
             {
                 report.PrintReportPerGenre();
