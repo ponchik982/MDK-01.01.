@@ -12,5 +12,4 @@ namespace LR2
         RPG,
         Sports
     }
-
 }
