@@ -91,7 +91,6 @@ namespace PharmacyOrderApp
             }
 
             textBoxResult.Text = result;
-            Console.WriteLine("H");
         }
     }
 }
